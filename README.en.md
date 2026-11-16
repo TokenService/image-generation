@@ -4,6 +4,14 @@
 
 Provided by [New.bi](https://api.new.bi), a professional, stable, and reliable AI model aggregation gateway.
 
+## Install with an agent
+
+Send this line to an agent. It downloads, unpacks, authenticates and runs the tool:
+
+```text
+Install and use the New.bi image skill: download https://pub-817cae131e2b4e0a8ce0a9f8bac75462.r2.dev/down/image-generation.zip, unpack it, run python3 scripts/gateway.py login --key <your key>, confirm with doctor, then generate with image generate and edit with image edit.
+```
+
 Image generation CLI for an AI gateway. Drop it into an agent skills directory or use it as a standalone tool.
 
 - Text-to-image, image-to-image, masked inpainting
